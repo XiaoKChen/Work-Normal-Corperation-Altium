@@ -1,0 +1,18 @@
+.20021121-00010C4LF :1 ;Headers & Wire Housings 1.27x1.27mm BTB, Hdr Unshrd, SMT, 10 Pos
+"2002112100010C4LF"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10"
+*MXP 10
+*DFN 20021121-00010C4LF
+~!Manufacturer_Name (Amphenol)
+~!Manufacturer_Part_Number (20021121-00010C4LF)
+~!Mouser Part Number (649-202112100010C4LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/20021121-00010C4LF?qs=iIVTEDlrHA1ddfCJGH4Nhg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf)
+~!Height (5.7mm)
+~!3D_Model (20021121-00010C4LF)
+"20021121-00010C4LF"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

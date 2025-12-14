@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T5V0S5A_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "T5V0S5A-7" (!) = "", "SODFL1608X65N", "Small Outline Diode Flat Lead", "621-T5V0S5A-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/T5V0S5A-7?qs=tlsG%2FOw5FFgMzM2pSJSWwA%3D%3D", "T5V0S5A-7", "https://www.arrow.com/en/products/t5v0s5a-7/diodes-incorporated?region=nac", "ESD Protection Diodes / TVS Diodes Surge Protection PP SOD523 T&R 3K", "https://www.diodes.com//assets/Datasheets/T3V3S5A_T5V0S5A_T6V0S5A_T12S5A.pdf", "0.65 mm"
+END_PART
+
+END.

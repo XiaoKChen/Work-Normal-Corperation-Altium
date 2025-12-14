@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FTSH_105_01_L_DV_K_P_TR'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "SAMTEC", "FTSH-105-01-L-DV-K-P-TR" (!) = "", "FTSH-105-XX-YYY-DV-K-P-TR", "Other", "200-FTSH10501LDVKPTR", "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-105-01-L-DV-K-P-TR?qs=fnpEE5GccuMUjCRgxv4voQ%3D%3D", "FTSH-105-01-L-DV-K-P-TR", "https://www.arrow.com/en/products/ftsh-105-01-l-dv-k-p-tr/samtec?utm_currency=USD&region=europe", "Samtec, FTSH, 10 Way, 2 Row, Vertical PCB Header", "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"
+END_PART
+
+END.

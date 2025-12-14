@@ -1,0 +1,19 @@
+.R7FA4M1AB3CFM_AA0 :1 ;The Renesas RA4M1 group of microcontrollers (MCUs) uses the high-performance Arm Cortex-M4 core and offers a segment LCD controller and a capacitive touch sensing unit input for intensive HMI designs. The RA4M1 MCU is built on a highly efficient low power process and is supported by an open and flexible ecosystem conceptthe Flexible Software Package (FSP), built on FreeRTOSand is expandable to use other RTOSes and middleware. The RA4M1 is suitable for applications where a large amount of capacitive touc
+QFP50P1200X1200X170-64N
+*STM IC
+*NGS
+*PLB 1="P400" 2="P401" 3="P402" 4="VBATT" 5="VCL" 6="P215/XCIN" 7="P214/XCOUT" 8="VSS_1" 9="P213/XTAL" 10="P212/EXTAL" 11="VCC_1" 12="P411" 13="P410" 14="P409" 15="P408" 16="P407" 17="VSS_USB" 18="P915/USB_DM" 19="P914/USB_DP" 20="VCC_USB" 21="VCC_USB_LDO" 22="P206" 23="P205" 24="P204" 25="RES" 26="P201/MD" 27="P200" 28="P304" 29="P303" 30="P302" 31="P301" 32="P300/TCK/SWCLK" 33="P108/TMS/SWDIO" 34="P109/TDO/SWO" 35="P110/TDI" 36="P111" 37="P112" 38="P113" &
+39="VCC_2" 40="VSS_2" 41="P107" 42="P106" 43="P105" 44="P104" 45="P103" 46="P102" 47="P101" 48="P100" 49="P500" 50="P501" 51="P502" 52="P015" 53="P014" 54="P013/VREFL" 55="P012/VREFH" 56="AVCC0" 57="AVSS0" 58="P011/VREFL0" 59="P010/VREFH0" 60="P004" 61="P003" 62="P002" 63="P001" 64="P000"
+*MXP 64
+*DFN R7FA4M1AB3CFM_AA0
+~!Manufacturer_Name (Renesas Electronics)
+~!Manufacturer_Part_Number (R7FA4M1AB3CFM#AA0)
+~!Mouser Part Number (968-7FA4M1AB3CFM#AA0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/R7FA4M1AB3CFMAA0?qs=d0WKAl%252BL4KbrKuAsyurXHw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.renesas.com/document/dst/renesas-ra4m1-group-datasheet?language=en&r=1054146)
+~!Height (1.7mm)
+~!3D_Model (R7FA4M1AB3CFM#AA0)
+R7FA4M1AB3CFM_AA0
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 64.1!U 63.1!U 62.1!U 61.1!U 60.1!U 59.1!U 58.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 50.1!U 49.1!U 

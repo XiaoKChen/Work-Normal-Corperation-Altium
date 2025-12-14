@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS62086RLTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS62086RLTR" (!) = "", "TPS62086RLTR", "Other", "595-TPS62086RLTR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62086RLTR?qs=gNSudQoqUYDJjodQ1zmrAg%3D%3D", "TPS62086RLTR", "https://www.arrow.com/en/products/tps62086rltr/texas-instruments?utm_currency=USD&region=nac", "Switching Voltage Regulators 3A SD Cnvtr w/ DCS-Control", "https://www.ti.com/lit/ds/symlink/tps62086.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1657633216371&ref_url=https%253A%252F%252Fwww.mouser.de%252F", "1 mm"
+END_PART
+
+END.

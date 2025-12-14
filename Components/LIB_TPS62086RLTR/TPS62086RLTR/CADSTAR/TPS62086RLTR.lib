@@ -1,0 +1,18 @@
+.TPS62086RLTR :1 ;Switching Voltage Regulators 3A SD Cnvtr w/ DCS-Control
+TPS62086RLTR
+*STM IC
+*NGS
+*PLB 1="EN" 2="PG" 3="FB" 4="VOS" 5="GND" 6="SW" 7="VIN"
+*MXP 7
+*DFN TPS62086RLTR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS62086RLTR)
+~!Mouser Part Number (595-TPS62086RLTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62086RLTR?qs=gNSudQoqUYDJjodQ1zmrAg%3D%3D)
+~!Arrow Part Number (TPS62086RLTR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps62086rltr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps62086.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1657633216371&ref_url=https%253A%252F%252Fwww.mouser.de%252F)
+~!Height (1mm)
+~!3D_Model (TPS62086RLTR)
+TPS62086RLTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

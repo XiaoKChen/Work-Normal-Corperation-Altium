@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=ADS7951SRGER
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=25
+Version=1.1
+Released=2017-01-12 12:59:53
+Downloaded=2025-12-13 00:00:53
+3D=Y

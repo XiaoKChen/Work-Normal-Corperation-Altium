@@ -1,0 +1,18 @@
+.TCAN332DR :1 ;TEXAS INSTRUMENTS - TCAN332DR - CAN TRANSCEIVER, 5MBPS, SOIC-8
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="NC_1" 6="CANL" 7="CANH" 8="NC_2"
+*MXP 8
+*DFN TCAN332DR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAN332DR)
+~!Mouser Part Number (595-TCAN332DR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN332DR?qs=n%252BTO0c4TDSYIUeM9WmVMtA%3D%3D)
+~!Arrow Part Number (TCAN332DR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tcan332dr/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tcan332.pdf)
+~!Height (1.75mm)
+~!3D_Model (TCAN332DR)
+TCAN332DR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

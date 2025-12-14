@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62086RLTR
+D Switching Voltage Regulators 3A SD Cnvtr w/ DCS-Control
+K
+F https://www.ti.com/lit/ds/symlink/tps62086.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1657633216371&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
+#End Doc Library

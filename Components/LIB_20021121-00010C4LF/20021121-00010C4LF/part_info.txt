@@ -1,0 +1,9 @@
+Manufacturer=Amphenol
+PartNumber=20021121-00010C4LF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=1.8
+Released=2024-05-09 11:17:33
+Downloaded=2025-10-17 02:41:10
+3D=Y

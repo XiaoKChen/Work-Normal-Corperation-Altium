@@ -1,0 +1,142 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TPS62086RLTR"
+   (description "Switching Voltage Regulators 3A SD Cnvtr w/ DCS-Control")
+   (family "ANA")
+   (package "TPS62086RLTR")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tps62086.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1657633216371&ref_url=https%253A%252F%252Fwww.mouser.de%252F")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TPS62086RLTR")
+   (attribute "Mouser Part Number" "595-TPS62086RLTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62086RLTR?qs=gNSudQoqUYDJjodQ1zmrAg%3D%3D")
+   (attribute "Arrow Part Number" "TPS62086RLTR")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tps62086rltr/texas-instruments?utm_currency=USD&region=nac")
+   (gate
+    (symbol "TPS62086RLTR")
+    (pin "EN" 1 PS)
+    (pin "PG" 2 PS)
+    (pin "FB" 3 PS)
+    (pin "VOS" 4 PS)
+    (pin "GND" 5 PS)
+    (pin "SW" 6 PS)
+    (pin "VIN" 7 PS)
+   )
+  )
+  (symbol "TPS62086RLTR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TPS62086RLTR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 1)
+      (pt 1 1)
+      (pt 1 -1)
+      (pt -1 -1)
+      (pt -1 1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 2)
+      (pt 2.27 2)
+      (pt 2.27 -2)
+      (pt -2.2 -2)
+      (pt -2.2 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 0.75)
+      (arc (pt -1.600 0.750) (pt -1.700 0.700) (pt -1.600 0.800) (start 180.0) (sweep .0))
+      (pt -1.7 0.75)
+      (arc (pt -1.700 0.750) (pt -1.700 0.700) (pt -1.600 0.800) (start 180.0) (sweep 180.0))
+      (pt -1.6 0.75))))
+   (leg 1 (pt -0.900 0.750) (padstack 1))
+   (leg 2 (pt -0.900 0.250) (padstack 0))
+   (leg 3 (pt -0.900 -0.250) (padstack 0))
+   (leg 4 (pt -0.900 -0.750) (padstack 0))
+   (leg 5 (pt 0.450 -0.600) (padstack 5))
+   (leg 6 (pt 0.450 0.000) (padstack 6))
+   (leg 7 (pt 0.450 0.600) (padstack 7))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (ovalf 0.250 0.600 0 0.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.600 0 0 0.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.440 1.640 0 0 0.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.440 1.640 0 0 0.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.440 1.640 0 0 0.000))
+   )
+   (model "TPS62086RLTR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

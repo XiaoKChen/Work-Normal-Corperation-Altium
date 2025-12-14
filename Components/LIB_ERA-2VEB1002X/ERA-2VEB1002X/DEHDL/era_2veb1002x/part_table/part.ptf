@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_2VEB1002X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERA-2VEB1002X" (!) = "", "ERA2V_(0402)", "Other", "667-ERA-2VEB1002X", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-2VEB1002X?qs=OlC7AqGiEDkeCq2k6HXliw%3D%3D", "ERA-2VEB1002X", "https://www.arrow.com/en/products/era-2veb1002x/panasonic?region=nac", "Thin Film Resistors - SMD 0402 0.1% 10Kohm 25ppm AEC-Q200", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf", "0.4 mm"
+END_PART
+
+END.

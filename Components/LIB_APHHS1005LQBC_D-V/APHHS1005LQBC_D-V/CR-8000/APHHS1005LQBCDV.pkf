@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "APHHS1005LQBCDV"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "APHHS1005LQBCDV")
+        (spec "default")
+    )
+)

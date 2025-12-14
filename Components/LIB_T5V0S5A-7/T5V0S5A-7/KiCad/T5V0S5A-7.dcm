@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T5V0S5A-7
+D ESD Protection Diodes / TVS Diodes Surge Protection PP SOD523 T&R 3K
+K
+F https://www.diodes.com//assets/Datasheets/T3V3S5A_T5V0S5A_T6V0S5A_T12S5A.pdf
+$ENDCMP
+#
+#End Doc Library

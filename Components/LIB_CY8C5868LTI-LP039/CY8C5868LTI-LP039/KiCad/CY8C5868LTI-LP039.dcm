@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C5868LTI-LP039
+D ARM Microcontrollers - MCU 256K Flash 64K SRAM PSoC 5LP
+K
+F https://www.infineon.com/dgdl/Infineon-PSoC_5LP_CY8C58LP_Family_Datasheet_Programmable_System-on-Chip_(PSoC_)-DataSheet-v15_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ec547013ab9
+$ENDCMP
+#
+#End Doc Library

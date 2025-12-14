@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CY8C5868LTI-LP039"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-20-03:32:31)
+    (mountForm default
+        (footprintRef "QFN40P800X800X100-69N-D")
+        (spec "System")
+    )
+)

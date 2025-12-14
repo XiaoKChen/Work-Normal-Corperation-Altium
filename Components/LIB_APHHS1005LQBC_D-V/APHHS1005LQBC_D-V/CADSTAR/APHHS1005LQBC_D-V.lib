@@ -1,0 +1,18 @@
+.APHHS1005LQBC_D-V :1 ;LED BLUE CLEAR SMD
+APHHS1005LQBCDV
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN APHHS1005LQBC_D-V
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (APHHS1005LQBC/D-V)
+~!Mouser Part Number (604-APHHS1005LQBC/DV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/APHHS1005LQBC-D-V?qs=WbpYJYa8y32aFVn6IIj1Dg%3D%3D)
+~!Arrow Part Number (APHHS1005LQBC/D-V)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aphhs1005lqbcd-v/kingbright?region=nac)
+~!Link Datasheet (http://www.kingbrightusa.com/images/catalog/SPEC/APHHS1005LQBC-D-V.pdf)
+~!Height (0.6mm)
+~!3D_Model (APHHS1005LQBC_D-V)
+APHHS1005LQBC_D-V
+1.1!U 2.1!U 

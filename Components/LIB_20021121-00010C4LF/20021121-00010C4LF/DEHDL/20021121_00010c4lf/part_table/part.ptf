@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '20021121_00010C4LF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "20021121-00010C4LF" (!) = "", "2002112100010C4LF", "Other", "649-202112100010C4LF", "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/20021121-00010C4LF?qs=iIVTEDlrHA1ddfCJGH4Nhg%3D%3D", "", "", "Headers & Wire Housings 1.27x1.27mm BTB, Hdr Unshrd, SMT, 10 Pos", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf", "5.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN332DR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN332DR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-TCAN332DR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN332DR?qs=n%252BTO0c4TDSYIUeM9WmVMtA%3D%3D", "TCAN332DR", "https://www.arrow.com/en/products/tcan332dr/texas-instruments?region=nac", "TEXAS INSTRUMENTS - TCAN332DR - CAN TRANSCEIVER, 5MBPS, SOIC-8", "http://www.ti.com/lit/ds/symlink/tcan332.pdf", "1.75 mm"
+END_PART
+
+END.

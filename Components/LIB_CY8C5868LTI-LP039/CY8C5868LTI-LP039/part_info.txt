@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=CY8C5868LTI-LP039
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=69
+Version=1.1
+Released=2023-01-20 03:32:30
+Downloaded=2025-10-17 21:17:05
+3D=Y

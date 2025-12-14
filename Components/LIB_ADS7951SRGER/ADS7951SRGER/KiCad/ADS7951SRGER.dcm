@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS7951SRGER
+D 12/10/8-Bit, 1 MSPS, 16/12/8/4-Channel, Single-Ended, MicroPower, Serial Interface ADCs
+K
+F http://www.ti.com/lit/gpn/ADS7951
+$ENDCMP
+#
+#End Doc Library

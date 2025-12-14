@@ -1,0 +1,18 @@
+.ADS7951SRGER :1 ;12/10/8-Bit, 1 MSPS, 16/12/8/4-Channel, Single-Ended, MicroPower, Serial Interface ADCs
+QFN50P400X400X100-25N
+*STM IC
+*NGS
+*PLB 1="+VA_2" 2="AGND_2" 3="MXO" 4="AINP" 5="AINM" 6="NC_2" 7="NC" 8="CH3" 9="CH2" 10="CH1" 11="CH0" 12="NC_3" 13="NC_4" 14="+VA" 15="AGND" 16="~CS" 17="SCLK" 18="SDI" 19="SDO" 20="BDGND" 21="+VBD" 22="GPIO" 23="REFM" 24="REFP" 25="EP"
+*MXP 25
+*DFN ADS7951SRGER
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (ADS7951SRGER)
+~!Mouser Part Number (595-ADS7951SRGER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS7951SRGER?qs=DS7Z8uEdLNy%2Fv2qaypk8NQ%3D%3D)
+~!Arrow Part Number (ADS7951SRGER)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ads7951srger/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/ADS7951)
+~!Height (-)
+~!3D_Model (ADS7951SRGER)
+ADS7951SRGER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 

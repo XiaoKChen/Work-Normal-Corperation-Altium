@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=APHHS1005LQBC/D-V
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2018-04-03 10:03:09
+Downloaded=2025-12-12 22:30:56
+3D=Y

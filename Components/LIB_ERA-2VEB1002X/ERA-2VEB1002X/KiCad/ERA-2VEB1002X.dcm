@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERA-2VEB1002X
+D Thin Film Resistors - SMD 0402 0.1% 10Kohm 25ppm AEC-Q200
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf
+$ENDCMP
+#
+#End Doc Library

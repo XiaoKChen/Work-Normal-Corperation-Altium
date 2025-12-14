@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APHHS1005LQBC_D_V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "APHHS1005LQBC/D-V" (!) = "", "APHHS1005LQBCDV", "Other", "604-APHHS1005LQBC/DV", "https://www.mouser.co.uk/ProductDetail/Kingbright/APHHS1005LQBC-D-V?qs=WbpYJYa8y32aFVn6IIj1Dg%3D%3D", "APHHS1005LQBC/D-V", "https://www.arrow.com/en/products/aphhs1005lqbcd-v/kingbright?region=nac", "LED BLUE CLEAR SMD", "http://www.kingbrightusa.com/images/catalog/SPEC/APHHS1005LQBC-D-V.pdf", "0.6 mm"
+END_PART
+
+END.

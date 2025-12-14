@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=T5V0S5A-7
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.2
+Released=2024-12-23 09:10:06
+Downloaded=2025-10-18 01:13:31
+3D=Y

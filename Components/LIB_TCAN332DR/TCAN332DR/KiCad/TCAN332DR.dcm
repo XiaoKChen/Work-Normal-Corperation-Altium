@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAN332DR
+D TEXAS INSTRUMENTS - TCAN332DR - CAN TRANSCEIVER, 5MBPS, SOIC-8
+K
+F http://www.ti.com/lit/ds/symlink/tcan332.pdf
+$ENDCMP
+#
+#End Doc Library

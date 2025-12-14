@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=FTSH-105-01-L-DV-K-P-TR
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=2.1
+Released=2019-01-23 11:14:50
+Downloaded=2025-12-12 05:29:15
+3D=Y

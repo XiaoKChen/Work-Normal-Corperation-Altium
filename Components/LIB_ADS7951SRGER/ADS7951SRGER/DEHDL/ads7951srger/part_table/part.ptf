@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS7951SRGER'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "ADS7951SRGER" (!) = "", "QFN50P400X400X100-25N", "Other", "595-ADS7951SRGER", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS7951SRGER?qs=DS7Z8uEdLNy%2Fv2qaypk8NQ%3D%3D", "ADS7951SRGER", "https://www.arrow.com/en/products/ads7951srger/texas-instruments?utm_currency=USD&region=nac", "12/10/8-Bit, 1 MSPS, 16/12/8/4-Channel, Single-Ended, MicroPower, Serial Interface ADCs", "http://www.ti.com/lit/gpn/ADS7951"
+END_PART
+
+END.
