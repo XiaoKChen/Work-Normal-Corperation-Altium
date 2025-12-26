@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SMD3225_4P12288MHZ12PF10PPM4085"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SMD3225_4P12288MHZ12PF10PPM4085")
+        (spec "default")
+    )
+)

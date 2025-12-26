@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SMD-3225_4P_12.288MHZ_12PF_10P"
+   (description "SMD Crystal Resonators 12.288MHz +/-10ppm SMD-3225_4P RoHS")
+   (family "OSC")
+   (package "SMD3225_4P12288MHZ12PF10PPM4085")
+   (attribute "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/1901241506_Zhejiang-Abel-Elec-SMD-3225-4P-12-288MHZ-12PF-10PPM-40-85_C362472.pdf")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Manufacturer_Name" "TAE(Zhejiang Abel Elec)")
+   (attribute "Manufacturer_Part_Number" "SMD-3225_4P 12.288MHZ 12PF 10PPM -40~+85¡æ")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "SMD-3225_4P_12.288MHZ_12PF_10P")
+    (pin "CRYSTAL_1" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "CRYSTAL_2" 3 PS)
+    (pin "GND_2" 4 PS)
+   )
+  )
+  (symbol "SMD-3225_4P_12.288MHZ_12PF_10P"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1400 100) (pt 1400 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SMD3225_4P12288MHZ12PF10PPM4085"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 1.25)
+      (pt 1.6 1.25)
+      (pt 1.6 -1.25)
+      (pt -1.6 -1.25)
+      (pt -1.6 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.6 2.45)
+      (pt 2.8 2.45)
+      (pt 2.8 -2.45)
+      (pt -3.6 -2.45)
+      (pt -3.6 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.6 -0.8)
+      (arc (pt -2.600 -0.800) (pt -2.600 -0.900) (pt -2.400 -0.700) (start 180.0) (sweep 180.0))
+      (pt -2.4 -0.8)
+      (arc (pt -2.400 -0.800) (pt -2.600 -0.900) (pt -2.400 -0.700) (start 180.0) (sweep .0))
+      (pt -2.6 -0.8))))
+   (leg 1 (pt -1.100 -0.850) (padstack 0))
+   (leg 2 (pt 1.100 -0.850) (padstack 0))
+   (leg 3 (pt 1.100 0.850) (padstack 0))
+   (leg 4 (pt -1.100 0.850) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.400 0 0 0.000))
+   )
+   (model "SMD-3225_4P_12.288MHZ_12PF_10PPM_-40~+85¡æ.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

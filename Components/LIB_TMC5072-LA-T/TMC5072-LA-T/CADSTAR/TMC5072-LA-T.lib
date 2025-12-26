@@ -1,0 +1,19 @@
+.TMC5072-LA-T :1 ;Dual silent stepper motor cDriver 5 to 20V, up to 1.1A with SPI Interface, 256 Steps, SixPoint ramp controller, SpreadCycle and Stealthchop
+QFN50P700X700X90-49N-D
+*STM IC
+*NGS
+*PLB 1="ENC1A/INT" 2="ENC1B/PP" 3="CSN/IO0" 4="SCK/IO1" 5="SDI/IO2" 6="GND_1" 7="VCC_IO" 8="SDO/RING" 9="SWIOP" 10="SWION" 11="CLK" 12="SWSEL" 13="N.C._1" 14="O2A1" 15="BR2A" 16="O2A2" 17="VS_1" 18="GNDP_1" 19="VS_2" 20="O2B1" 21="BR2B" 22="O2B2" 23="N.C._2" 24="NEXTADDR" 25="REFR2" 26="REFL2" 27="REFR1" 28="REFL1" 29="DRV_ENN" 30="VSA" 31="GNDA" 32="5VOUT" 33="VCC" 34="GND_2" 35="CPO" 36="CPI" 37="VCP" 38="N.C._3" 39="O1B2" 40="BR1B" 41="O1B1" 42="VS_3" &
+43="GNDP_2" 44="VS_4" 45="O1A2" 46="BR1A" 47="O1A1" 48="TST_MODE" 49="EP"
+*MXP 49
+*DFN TMC5072-LA-T
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (TMC5072-LA-T)
+~!Mouser Part Number (700-TMC5072-LA-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ADI-Trinamic/TMC5072-LA-T?qs=7MVldsJ5UaxzlZc%252BdABOIA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.analog.com/TMC5072/datasheet)
+~!Height (0.9mm)
+~!3D_Model (TMC5072-LA-T)
+TMC5072-LA-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

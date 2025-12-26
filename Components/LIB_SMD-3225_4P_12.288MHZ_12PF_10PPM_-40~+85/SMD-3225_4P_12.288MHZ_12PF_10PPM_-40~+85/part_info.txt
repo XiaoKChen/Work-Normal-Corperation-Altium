@@ -1,0 +1,9 @@
+Manufacturer=TAE(Zhejiang Abel Elec)
+PartNumber=SMD-3225_4P 12.288MHZ 12PF 10PPM -40~+85¡æ
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.4
+Released=2019-12-31 11:44:56
+Downloaded=2025-12-23 00:08:19
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=CC0402FRNPO9BN101
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2023-02-15 06:31:25
+Downloaded=2025-12-17 03:31:15
+3D=Y

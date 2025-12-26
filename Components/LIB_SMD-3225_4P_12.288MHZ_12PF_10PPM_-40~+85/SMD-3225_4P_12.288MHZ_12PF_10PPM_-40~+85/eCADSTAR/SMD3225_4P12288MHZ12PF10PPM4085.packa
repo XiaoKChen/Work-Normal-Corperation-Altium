@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMD-3225_4P_12_288MHZ_12PF_10P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-31-11:44:56)
+    (mountForm default
+        (footprintRef "SMD3225_4P12288MHZ12PF10PPM4085")
+        (spec "System")
+    )
+)

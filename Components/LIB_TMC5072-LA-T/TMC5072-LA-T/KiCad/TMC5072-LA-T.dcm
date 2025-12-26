@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC5072-LA-T
+D Dual silent stepper motor cDriver 5 to 20V, up to 1.1A with SPI Interface, 256 Steps, SixPoint ramp controller, SpreadCycle and Stealthchop
+K
+F https://www.analog.com/TMC5072/datasheet
+$ENDCMP
+#
+#End Doc Library

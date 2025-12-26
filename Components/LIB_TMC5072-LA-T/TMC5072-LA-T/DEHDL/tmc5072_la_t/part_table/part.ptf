@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMC5072_LA_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "TMC5072-LA-T" (!) = "", "QFN50P700X700X90-49N-D", "Quad Flat No-Lead", "700-TMC5072-LA-T", "https://www.mouser.co.uk/ProductDetail/ADI-Trinamic/TMC5072-LA-T?qs=7MVldsJ5UaxzlZc%252BdABOIA%3D%3D", "", "", "Dual silent stepper motor cDriver 5 to 20V, up to 1.1A with SPI Interface, 256 Steps, SixPoint ramp controller, SpreadCycle and Stealthchop", "https://www.analog.com/TMC5072/datasheet", "0.9 mm"
+END_PART
+
+END.

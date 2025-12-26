@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_467667"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-18-10:05:06)
+    (utime 2025-11-16-18:51:51)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "865080553013")
+)
+
+
+(pinAssign "ECS_467667"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-18-10:05:06)
+    (utime 2025-11-16-18:51:51)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_467667")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "865080553013")
+)
+
+
+(part "865080553013"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-18-10:05:06)
+    (utime 2025-11-16-18:51:51)
+    (packageRef "865080553013")
+    (pinAssignRef "ECS_467667")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "WCAP-ASLI Aluminum Electrolytic Capacitors ASEE105151M035DVCTEB000; SMT V-Chip; 150 F +/- 20%; 35 V(DC); 2000 h; -55C / +105C; size DxL 8.0 x 10.5; Max. Iripple 510 mA @100 kHz; LC 52.5 A; DF 14 %")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "865080553013")
+    (property "Mouser_Part_Number" "710-865080553013")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080553013?qs=0KOYDY2FL29Thrvp1T0nKg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.we-online.com/components/products/download/3D_WCAP_ASLI_8x10x3+%28rev1%29.pdf")
+    (property "compAreaTopHeight" 10.5)
+)
+
+

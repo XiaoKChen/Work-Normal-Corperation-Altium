@@ -1,0 +1,18 @@
+.865080553013 :1 ;WCAP-ASLI Aluminum Electrolytic Capacitors ASEE105151M035DVCTEB000; SMT V-Chip; 150 F +/- 20%; 35 V(DC); 2000 h; -55C / +105C; size DxL 8.0 x 10.5; Max. Iripple 510 mA @100 kHz; LC 52.5 A; DF 14 %
+CAPAE830X1050N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 865080553013
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (865080553013)
+~!Mouser Part Number (710-865080553013)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080553013?qs=0KOYDY2FL29Thrvp1T0nKg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/components/products/download/3D_WCAP_ASLI_8x10x3+%28rev1%29.pdf)
+~!Height (10.5mm)
+~!3D_Model (865080553013)
+"865080553013"
+1.1!U 2.1!U 

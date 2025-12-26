@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMD-3225_4P_12.288MHZ_12PF_10PPM_-40~+85
+D SMD Crystal Resonators 12.288MHz +/-10ppm SMD-3225_4P RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1901241506_Zhejiang-Abel-Elec-SMD-3225-4P-12-288MHZ-12PF-10PPM-40-85_C362472.pdf
+$ENDCMP
+#
+#End Doc Library

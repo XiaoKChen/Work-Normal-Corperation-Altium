@@ -1,0 +1,18 @@
+.CC0402FRNPO9BN101 :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 100pF C0G 0402 1%
+CAPC1005X55N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CC0402FRNPO9BN101
+~!Manufacturer_Name (YAGEO)
+~!Manufacturer_Part_Number (CC0402FRNPO9BN101)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf)
+~!Height (0.55mm)
+~!3D_Model (CC0402FRNPO9BN101)
+CC0402FRNPO9BN101
+1.1!U 2.1!U 

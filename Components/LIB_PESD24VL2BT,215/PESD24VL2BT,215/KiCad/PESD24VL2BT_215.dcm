@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD24VL2BT,215
+D PESD24VL2BT - Low capacitance double bidirectional ESD protection diode in SOT23
+K
+F https://assets.nexperia.com/documents/data-sheet/PESDXL2BT_SER.pdf
+$ENDCMP
+#
+#End Doc Library
