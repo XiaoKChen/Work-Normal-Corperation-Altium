@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MP6605DGR-P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-10-04:35:50)
+    (mountForm default
+        (footprintRef "QFN50P400X400X100-25N-D")
+        (spec "System")
+    )
+)
