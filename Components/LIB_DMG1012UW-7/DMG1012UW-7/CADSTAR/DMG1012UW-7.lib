@@ -1,0 +1,18 @@
+.DMG1012UW-7 :1 ;MOSFET N-Channel 20V 1A SOT323 Diodes Inc DMG1012UW-7 N-channel MOSFET Transistor, 1 A, 20 V, 3-Pin SOT-323
+SOT65P222X110-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN DMG1012UW-7
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMG1012UW-7)
+~!Mouser Part Number (621-DMG1012UW-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG1012UW-7?qs=vIZ3oKQCLxp8XxWFc0YBWg%3D%3D)
+~!Arrow Part Number (DMG1012UW-7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/dmg1012uw-7/diodes-incorporated?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMG1012UW.pdf)
+~!Height (1.1mm)
+~!3D_Model (DMG1012UW-7)
+DMG1012UW-7
+1.1!U 2.1!U 3.1!U 

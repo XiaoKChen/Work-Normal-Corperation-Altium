@@ -1,7 +1,7 @@
 *PADS-LIBRARY-PART-TYPES-V9*
 
 T5V0S5A-7 SODFL1608X65N I DIO 9 1 0 0 0
-TIMESTAMP 2025.10.18.01.13.31
+TIMESTAMP 2026.01.13.03.25.41
 "Manufacturer_Name" Diodes Incorporated
 "Manufacturer_Part_Number" T5V0S5A-7
 "Mouser Part Number" 621-T5V0S5A-7

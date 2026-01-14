@@ -1,0 +1,9 @@
+Manufacturer=MCC
+PartNumber=ESD5V0D5-TP
+PartCategory=Diode ESD (Uni-directional)
+PackageCategory=Other
+PinCount=2
+Version=7.2
+Released=2020-02-20 13:40:43
+Downloaded=2026-01-13 23:24:42
+3D=Y

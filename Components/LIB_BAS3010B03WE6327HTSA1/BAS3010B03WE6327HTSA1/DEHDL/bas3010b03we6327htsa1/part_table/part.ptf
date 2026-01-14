@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BAS3010B03WE6327HTSA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BAS3010B03WE6327HTSA1" (!) = "", "SOD2513X110N", "Small Outline Diode", "726-BAS3010B-03WE6", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BAS3010B03WE6327HTSA1?qs=K00xGehIljsBZni0ij29%2Fg%3D%3D", "BAS3010B03WE6327HTSA1", "https://www.arrow.com/en/products/bas3010b03we6327htsa1/infineon-technologies-ag?utm_currency=USD&region=nac", "Infineon 30V 1A, Diode, 2-Pin SOD-323 BAS3010B03WE6327HTSA1", "https://www.infineon.com/dgdl/Infineon-BAS3010BSERIES-DS-v01_01-en.pdf?fileId=db3a304313e278750113e29a03a70005", "1.1 mm"
+END_PART
+
+END.

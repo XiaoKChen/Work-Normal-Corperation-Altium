@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NTS0104GU12115"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NTS0104GU12115")
+        (spec "default")
+    )
+)

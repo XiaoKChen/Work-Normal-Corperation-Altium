@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NTS0104GU12_115'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "NXP", "NTS0104GU12,115" (!) = "", "NTS0104GU12115", "Other", "771-NTS0104GU12115", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTS0104GU12115?qs=A1cBxND5mHLxKBBpk2Em8w%3D%3D", "NTS0104GU12,115", "https://www.arrow.com/en/products/nts0104gu12115/nxp-semiconductors?utm_currency=USD&region=europe", "Translation - Voltage Levels 5.8ns 5.5V 250mW OD", "https://www.nxp.com/docs/en/data-sheet/NTS0104.pdf"
+END_PART
+
+END.

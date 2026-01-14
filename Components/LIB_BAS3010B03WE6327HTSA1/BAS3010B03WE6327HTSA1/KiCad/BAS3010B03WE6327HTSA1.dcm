@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS3010B03WE6327HTSA1
+D Infineon 30V 1A, Diode, 2-Pin SOD-323 BAS3010B03WE6327HTSA1
+K
+F https://www.infineon.com/dgdl/Infineon-BAS3010BSERIES-DS-v01_01-en.pdf?fileId=db3a304313e278750113e29a03a70005
+$ENDCMP
+#
+#End Doc Library

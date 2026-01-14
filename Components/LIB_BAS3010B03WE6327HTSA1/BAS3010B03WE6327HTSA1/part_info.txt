@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BAS3010B03WE6327HTSA1
+PartCategory=Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=1.1
+Released=2019-06-12 06:25:14
+Downloaded=2026-01-13 03:37:50
+3D=Y

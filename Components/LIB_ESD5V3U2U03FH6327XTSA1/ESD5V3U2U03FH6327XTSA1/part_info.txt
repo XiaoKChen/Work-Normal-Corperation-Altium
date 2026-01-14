@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=ESD5V3U2U03FH6327XTSA1
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=SO Transistor Flat Lead
+PinCount=3
+Version=1.1
+Released=2020-02-13 12:51:50
+Downloaded=2026-01-13 03:30:49
+3D=Y

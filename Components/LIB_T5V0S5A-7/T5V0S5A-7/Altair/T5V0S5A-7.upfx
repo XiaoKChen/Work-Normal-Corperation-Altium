@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--/19290033/1717324/2.50/2/2/TVS Diode (Uni-directional)/-->
-<UPFs xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.0" Authorizer="Altair" Date="18-10-25">
+<UPFs xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.0" Authorizer="Altair" Date="13-01-26">
   <Upf>
     <PartGeneral>
       <Unit>MM</Unit>

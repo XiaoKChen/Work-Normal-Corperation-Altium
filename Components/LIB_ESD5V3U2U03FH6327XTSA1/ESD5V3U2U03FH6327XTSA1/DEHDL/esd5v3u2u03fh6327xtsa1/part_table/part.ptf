@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESD5V3U2U03FH6327XTSA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "ESD5V3U2U03FH6327XTSA1" (!) = "", "SOTFL40P120X59-3N", "SO Transistor Flat Lead", "726-5V3U2U03FH6327XT", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD5V3U2U03FH6327XTSA1?qs=OwbwYO03UsIO6kWWsxe48A%3D%3D", "ESD5V3U2U03FH6327XTSA1", "https://www.arrow.com/en/products/esd5v3u2u03fh6327xtsa1/infineon-technologies-ag?utm_currency=USD&region=nac", "Uni-directional Ultra Low ESD / Transient Protection Diode.", "https://componentsearchengine.com/Datasheets/1/ESD5V3U2U03FH6327XTSA1.pdf", "0.59 mm"
+END_PART
+
+END.

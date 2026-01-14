@@ -1,0 +1,167 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "NTS0104GU12_115"
+   (description "Translation - Voltage Levels 5.8ns 5.5V 250mW OD")
+   (family "ANA")
+   (package "NTS0104GU12115")
+   (attribute "Datasheet Link" "https://www.nxp.com/docs/en/data-sheet/NTS0104.pdf")
+   (attribute "Manufacturer_Name" "NXP")
+   (attribute "Manufacturer_Part_Number" "NTS0104GU12,115")
+   (attribute "Mouser Part Number" "771-NTS0104GU12115")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTS0104GU12115?qs=A1cBxND5mHLxKBBpk2Em8w%3D%3D")
+   (attribute "Arrow Part Number" "NTS0104GU12,115")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/nts0104gu12115/nxp-semiconductors?utm_currency=USD&region=europe")
+   (gate
+    (symbol "NTS0104GU12_115")
+    (pin "VCC(A)" 1 PS)
+    (pin "A1" 2 PS)
+    (pin "A2" 3 PS)
+    (pin "A3" 4 PS)
+    (pin "A4" 5 PS)
+    (pin "GND" 6 PS)
+    (pin "B4" 7 PS)
+    (pin "B3" 8 PS)
+    (pin "B2" 9 PS)
+    (pin "B1" 10 PS)
+    (pin "VCC(B)" 11 PS)
+    (pin "OE" 12 PS)
+   )
+  )
+  (symbol "NTS0104GU12_115"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "NTS0104GU12115"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.85 1)
+      (pt 0.85 1)
+      (pt 0.85 -1)
+      (pt -0.85 -1)
+      (pt -0.85 1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.766 1.65)
+      (pt 1.5 1.65)
+      (pt 1.5 -1.65)
+      (pt -1.766 -1.65)
+      (pt -1.766 1.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.010000000000000009)
+     (path
+      (closed true)
+      (pt -1.266 0.839)
+      (arc (pt -1.266 0.839) (pt -1.266 0.834) (pt -1.256 0.844) (start 180.0) (sweep 180.0))
+      (pt -1.256 0.839)
+      (arc (pt -1.256 0.839) (pt -1.266 0.834) (pt -1.256 0.844) (start 180.0) (sweep .0))
+      (pt -1.266 0.839))))
+   (leg 1 (pt -0.750 0.850) (padstack 1))
+   (leg 2 (pt -0.750 0.400) (padstack 0))
+   (leg 3 (pt -0.750 0.000) (padstack 0))
+   (leg 4 (pt -0.750 -0.400) (padstack 0))
+   (leg 5 (pt -0.750 -0.850) (padstack 0))
+   (leg 6 (pt 0.000 -0.825) (padstack 6))
+   (leg 7 (pt 0.750 -0.850) (padstack 0))
+   (leg 8 (pt 0.750 -0.400) (padstack 0))
+   (leg 9 (pt 0.750 0.000) (padstack 0))
+   (leg 10 (pt 0.750 0.400) (padstack 0))
+   (leg 11 (pt 0.750 0.850) (padstack 0))
+   (leg 12 (pt 0.000 0.825) (padstack 12))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.220 0.500 0 0 0.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.320 0.500 0 0 0.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.220 0.650 0 0 90.000))
+   )
+   (padstack 12
+    (plated false)
+    (pad (layer TCOP) (rectf 0.220 0.650 0 0 90.000))
+   )
+   (model "NTS0104GU12,115.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

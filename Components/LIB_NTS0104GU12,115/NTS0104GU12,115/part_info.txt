@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=NTS0104GU12,115
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=12
+Version=1.1
+Released=2020-12-16 11:54:49
+Downloaded=2026-01-12 21:36:11
+3D=Y

@@ -1,0 +1,18 @@
+.NTS0104GU12_115 :1 ;Translation - Voltage Levels 5.8ns 5.5V 250mW OD
+NTS0104GU12115
+*STM IC
+*NGS
+*PLB 1="VCC(A)" 2="A1" 3="A2" 4="A3" 5="A4" 6="GND" 7="B4" 8="B3" 9="B2" 10="B1" 11="VCC(B)" 12="OE"
+*MXP 12
+*DFN NTS0104GU12_115
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (NTS0104GU12,115)
+~!Mouser Part Number (771-NTS0104GU12115)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NTS0104GU12115?qs=A1cBxND5mHLxKBBpk2Em8w%3D%3D)
+~!Arrow Part Number (NTS0104GU12,115)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nts0104gu12115/nxp-semiconductors?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.nxp.com/docs/en/data-sheet/NTS0104.pdf)
+~!Height (-)
+~!3D_Model (NTS0104GU12,115)
+NTS0104GU12_115
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

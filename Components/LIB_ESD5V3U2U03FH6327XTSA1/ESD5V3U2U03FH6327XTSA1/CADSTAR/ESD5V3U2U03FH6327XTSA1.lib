@@ -1,0 +1,18 @@
+.ESD5V3U2U03FH6327XTSA1 :1 ;Uni-directional Ultra Low ESD / Transient Protection Diode.
+SOTFL40P120X59-3N
+*STM D
+*NGS
+*PLB 1="A/K_1" 2="A/K_2" 3="COM"
+*MXP 3
+*DFN ESD5V3U2U03FH6327XTSA1
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (ESD5V3U2U03FH6327XTSA1)
+~!Mouser Part Number (726-5V3U2U03FH6327XT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/ESD5V3U2U03FH6327XTSA1?qs=OwbwYO03UsIO6kWWsxe48A%3D%3D)
+~!Arrow Part Number (ESD5V3U2U03FH6327XTSA1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/esd5v3u2u03fh6327xtsa1/infineon-technologies-ag?utm_currency=USD&region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/ESD5V3U2U03FH6327XTSA1.pdf)
+~!Height (0.59mm)
+~!3D_Model (ESD5V3U2U03FH6327XTSA1)
+ESD5V3U2U03FH6327XTSA1
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DMG1012UW-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-15-04:51:02)
+    (mountForm default
+        (footprintRef "SOT65P222X110-3N")
+        (spec "System")
+    )
+)
