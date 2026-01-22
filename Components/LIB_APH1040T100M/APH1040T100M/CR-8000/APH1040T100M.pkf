@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "APH1040T100M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "APH1040T100M")
+        (spec "default")
+    )
+)

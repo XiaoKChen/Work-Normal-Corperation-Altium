@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C2012X5R1H335K125AB
+D TDK 0805 C 3.3uF Ceramic Multilayer Capacitor, 50 V dc, +85C, X5R Dielectric, +/-10%
+K
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+#End Doc Library

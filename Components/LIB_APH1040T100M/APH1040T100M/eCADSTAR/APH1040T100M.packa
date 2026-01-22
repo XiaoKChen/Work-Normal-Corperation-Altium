@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "APH1040T100M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-16-04:47:09)
+    (mountForm default
+        (footprintRef "APH1040T100M")
+        (spec "System")
+    )
+)

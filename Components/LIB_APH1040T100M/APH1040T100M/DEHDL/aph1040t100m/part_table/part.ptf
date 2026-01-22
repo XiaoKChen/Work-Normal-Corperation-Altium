@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APH1040T100M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "APV", "APH1040T100M" (!) = "", "APH1040T100M", "Other", "", "", "", "", "7.04A 10uH Molding Choke 20% 7.06A SMD,11x10mm Power Inductors ROHS", "https://www.lcsc.com/datasheet/lcsc_datasheet_2301121209_APV-APH0530T1R5M_C5349678.pdf", "4 mm"
+END_PART
+
+END.

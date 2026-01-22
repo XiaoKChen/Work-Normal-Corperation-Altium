@@ -1,0 +1,18 @@
+.APH1040T100M :1 ;7.04A 10uH Molding Choke 20% 7.06A SMD,11x10mm Power Inductors ROHS
+APH1040T100M
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN APH1040T100M
+~!Manufacturer_Name (APV)
+~!Manufacturer_Part_Number (APH1040T100M)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.lcsc.com/datasheet/lcsc_datasheet_2301121209_APV-APH0530T1R5M_C5349678.pdf)
+~!Height (4mm)
+~!3D_Model (APH1040T100M)
+APH1040T100M
+1.1!U 2.1!U 

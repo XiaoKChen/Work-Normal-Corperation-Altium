@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=C2012X5R1H335K125AB
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2023-03-07 09:28:06
+Downloaded=2026-01-22 00:44:20
+3D=Y

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_19940958"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-16-04:47:09)
+    (utime 2024-09-16-04:47:38)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "APH1040T100M")
+)
+
+
+(pinAssign "ECS_19940958"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-16-04:47:09)
+    (utime 2024-09-16-04:47:38)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19940958")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "APH1040T100M")
+)
+
+
+(part "APH1040T100M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-16-04:47:09)
+    (utime 2024-09-16-04:47:38)
+    (packageRef "APH1040T100M")
+    (pinAssignRef "ECS_19940958")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "7.04A 10uH Molding Choke 20% 7.06A SMD,11x10mm Power Inductors ROHS")
+    (property "Manufacturer_Name" "APV")
+    (property "Manufacturer_Part_Number" "APH1040T100M")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.lcsc.com/datasheet/lcsc_datasheet_2301121209_APV-APH0530T1R5M_C5349678.pdf")
+    (property "compAreaTopHeight" 4)
+)
+
+

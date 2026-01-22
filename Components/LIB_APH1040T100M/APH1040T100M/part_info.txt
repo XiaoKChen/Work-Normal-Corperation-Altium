@@ -1,0 +1,9 @@
+Manufacturer=APV
+PartNumber=APH1040T100M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2024-09-16 04:47:09
+Downloaded=2026-01-15 20:34:34
+3D=Y
