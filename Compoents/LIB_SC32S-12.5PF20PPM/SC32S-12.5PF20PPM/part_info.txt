@@ -1,0 +1,9 @@
+Manufacturer=Seiko Epson Corporation
+PartNumber=SC32S-12.5PF20PPM
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2019-12-24 12:26:32
+Downloaded=2026-01-23 22:12:00
+3D=Y

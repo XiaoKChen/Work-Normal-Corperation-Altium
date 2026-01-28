@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FTSH-107-XX-YYY-DV-K-A-P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FTSH-107-XX-YYY-DV-K-A-P")
+        (spec "default")
+    )
+)

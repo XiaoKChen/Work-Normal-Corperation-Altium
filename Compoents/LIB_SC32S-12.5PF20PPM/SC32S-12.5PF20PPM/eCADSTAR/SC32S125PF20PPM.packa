@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SC32S-12_5PF20PPM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-04-01-07:41:07)
+    (mountForm default
+        (footprintRef "SC32S125PF20PPM")
+        (spec "System")
+    )
+)

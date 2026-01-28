@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FTSH_107_01_L_DV_K_A_P'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "SAMTEC", "FTSH-107-01-L-DV-K-A-P" (!) = "", "FTSH-107-XX-YYY-DV-K-A-P", "Other", "200-FTSH10701LDVKAP", "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-107-01-L-DV-K-A-P?qs=PB6%2FjmICvI2QizANfiVr3Q%3D%3D", "FTSH-107-01-L-DV-K-A-P", "https://www.arrow.com/en/products/ftsh-107-01-l-dv-k-a-p/samtec?region=nac", "Conn Unshrouded Header HDR 14 POS 1.27mm Solder ST Top Entry SMD TIGER CLAW Tube", "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"
+END_PART
+
+END.

@@ -1,0 +1,195 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FTSH-107-01-L-DV-K-A-P"
+   (description "Conn Unshrouded Header HDR 14 POS 1.27mm Solder ST Top Entry SMD TIGER CLAW Tube")
+   (family "CON")
+   (package "FTSH-107-XX-YYY-DV-K-A-P")
+   (attribute "Datasheet Link" "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf")
+   (attribute "Manufacturer_Name" "SAMTEC")
+   (attribute "Manufacturer_Part_Number" "FTSH-107-01-L-DV-K-A-P")
+   (attribute "Mouser Part Number" "200-FTSH10701LDVKAP")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/FTSH-107-01-L-DV-K-A-P?qs=PB6%2FjmICvI2QizANfiVr3Q%3D%3D")
+   (attribute "Arrow Part Number" "FTSH-107-01-L-DV-K-A-P")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/ftsh-107-01-l-dv-k-a-p/samtec?region=nac")
+   (gate
+    (symbol "FTSH-107-01-L-DV-K-A-P")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+    (pin "10" 10 PS)
+    (pin "11" 11 PS)
+    (pin "12" 12 PS)
+    (pin "13" 13 PS)
+    (pin "14" 14 PS)
+   )
+  )
+  (symbol "FTSH-107-01-L-DV-K-A-P"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FTSH-107-XX-YYY-DV-K-A-P"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.445 1.715)
+      (pt 4.445 1.715)
+      (pt 4.445 -1.715)
+      (pt -4.445 -1.715)
+      (pt -4.445 1.715))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 4.445 1.715)
+      (pt 4.445 -1.715))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -4.445 -1.715)
+      (pt -4.445 1.715))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -3.91 -3.785) (pt -3.81 -3.785)
+     )
+    )
+   )
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -5.645 4.43)
+      (pt 5.645 4.43)
+      (pt 5.645 -4.885)
+      (pt -5.645 -4.885)
+      (pt -5.645 4.43))))
+   (leg 1 (pt -3.81 -2.035) (padstack 0))
+   (leg 2 (pt -3.81 2.035) (padstack 0))
+   (leg 3 (pt -2.54 -2.035) (padstack 0))
+   (leg 4 (pt -2.54 2.035) (padstack 0))
+   (leg 5 (pt -1.27 -2.035) (padstack 0))
+   (leg 6 (pt -1.27 2.035) (padstack 0))
+   (leg 7 (pt 0 -2.035) (padstack 0))
+   (leg 8 (pt 0 2.035) (padstack 0))
+   (leg 9 (pt 1.27 -2.035) (padstack 0))
+   (leg 10 (pt 1.27 2.035) (padstack 0))
+   (leg 11 (pt 2.54 -2.035) (padstack 0))
+   (leg 12 (pt 2.54 2.035) (padstack 0))
+   (leg 13 (pt 3.81 -2.035) (padstack 0))
+   (leg 14 (pt 3.81 2.035) (padstack 0))
+   (leg 15 (pt -3.175 0) (padstack 15))
+   (leg 16 (pt 3.175 0) (padstack 16))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.74 2.79 0 0 90))
+   )
+   (padstack 15
+    (hole 1.02)
+    (plated false)
+    (pad (layer TCOP) (round 0.51))
+    (pad (layer INNER) (round 0.51))
+    (pad (layer BCOP) (round 0.51))
+   )
+   (padstack 16
+    (hole 1.02)
+    (plated false)
+    (pad (layer TCOP) (round 0.51))
+    (pad (layer INNER) (round 0.51))
+    (pad (layer BCOP) (round 0.51))
+   )
+   (model "FTSH-107-01-L-DV-K-A-P.stp"
+    (euler -90 180 0)
+    (offset 0 -0.12999999523162842 0.2199999988079071)
+   )
+  )
+ )
+)

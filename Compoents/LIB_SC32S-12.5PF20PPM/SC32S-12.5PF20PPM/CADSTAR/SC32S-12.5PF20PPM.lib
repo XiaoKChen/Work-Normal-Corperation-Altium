@@ -1,0 +1,18 @@
+.SC32S-12.5PF20PPM :1 ;32.768 kHz +/-20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead
+SC32S125PF20PPM
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SC32S-12.5PF20PPM
+~!Manufacturer_Name (Seiko Epson Corporation)
+~!Manufacturer_Part_Number (SC32S-12.5PF20PPM)
+~!Mouser Part Number (628-SC32S-125PF20PPM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Seiko-Instruments-Micro-Energy/SC32S-12.5PF20PPM?qs=3CPZD7qAgihedyqH7awUjg%3D%3D)
+~!Arrow Part Number (SC32S-12.5PF20PPM)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sc32s-12.5pf20ppm/seiko-instruments-inc?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.sii.co.jp/en/quartz/files/2013/03/SC-32S_Leaflet_e20151217.pdf)
+~!Height (0.85mm)
+~!3D_Model (SC32S-12.5PF20PPM)
+SC32S-12.5PF20PPM
+1.1!U 2.1!U 

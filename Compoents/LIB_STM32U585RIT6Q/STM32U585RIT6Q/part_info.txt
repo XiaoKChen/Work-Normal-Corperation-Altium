@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32U585RIT6Q
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=5.1
+Released=2022-02-21 05:17:00
+Downloaded=2026-01-22 22:56:41
+3D=Y

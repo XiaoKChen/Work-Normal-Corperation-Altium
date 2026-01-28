@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=FTSH-107-01-L-DV-K-A-P
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.1
+Released=2020-06-19 13:56:36
+Downloaded=2026-01-23 01:23:04
+3D=Y
